@@ -23,6 +23,5 @@ This project explores the relationships between various movie-related variables 
 
 ## 📁 Files
 - `Movie Portfolio Project.ipynb`: Jupyter Notebook with full code and analysis
-- `data/`: (Optional) Directory for any CSV files if included
+- `data/`: movies.csv
 - `README.md`: Project documentation
-- `Dashboard.png`: (If applicable) Visual summary of findings
